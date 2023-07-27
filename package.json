@@ -2,6 +2,7 @@
   "name": "vikyhome-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://yuliia-bakalova.github.io/Vikky-cleaning-site",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
